@@ -3,9 +3,9 @@
 
 <p>I have been developing Frontend for over 8 years for Small and Large Businesses in London.</p>
 
-- 🔭 I’m currently working on **React Projects!**
+- 🔭 I’m currently working on **React and Vue Projects!**
 
-- 🌱 I’m currently learning **React, Next.js, Tailwind**
+- 🌱 I’m currently learning **React, Next.js, Vue, Tailwind and many more**
 
 - 📫 How to reach me **kylefilegriffin@gmail.com** or **hello@kylegriffin.co.uk**
 
