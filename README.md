@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kylefilegriffin@gmail.com**
 
-- 📄 My personal website [https://kyle-griffin.github.io](https://kyle-griffin.github.io/)
+- 📄 My personal website [kyle-griffin.github.io](https://kyle-griffin.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
