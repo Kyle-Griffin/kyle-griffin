@@ -3,13 +3,13 @@
 
 <p>I have been developing Frontend for over 8 years for Small and Large Businesses in London.</p>
 
-- 🔭 I’m currently working on **React and Vue Projects!**
+- 🔭 I’m currently working on **React, Vue and Shopify Projects!**
 
 - 🌱 I’m currently learning **React, Next.js, Vue, Tailwind and many more**
 
-- 📫 How to reach me **kylefilegriffin@gmail.com** or **hello@kylegriffin.co.uk**
+- 📫 How to reach me **kylefilegriffin@gmail.com**
 
-- 📄 My personal website [kylegriffin.co.uk](kylegriffin.co.uk)
+- 📄 My personal website [https://kyle-griffin.github.io](https://kyle-griffin.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
